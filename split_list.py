@@ -1,3 +1,5 @@
+__author__ = 'Giuseppe Defazio'
+
 class list(list):
 
     def split_list(self, chunks):
